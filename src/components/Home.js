@@ -44,7 +44,7 @@ const Home = (props) => {
         setMovies({
           recommend: recommends,
           newDisney: newDisneys,
-          orinal: originals,
+          original: originals,
           trending: trending,
         })
       );
